@@ -1,13 +1,55 @@
-header{
-  background-color: #003399;
-  border-color: black;
-  color: whitesmoke;
-  padding: 2% 0 2% 0;
-  text-align: center;
+body{
+  margin-top: 0;
 }
 footer{
   background-color: #003399;
+  border: solid;
   border-color: black;
-  padding: 1em 0 1em 0;
+  padding: 2% 0 2% 0;
   color: whitesmoke;
+}
+header h1{
+  background-color: #003399;
+  border: solid;
+  border-color: black;
+  color: whitesmoke;
+  margin-top: 0;
+  padding: 2% 0 2% 0;
+  text-align: center;
+}
+main{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  }
+hr.top-bar{
+  border: 10px solid lightskyblue;
+  margin-bottom: 0;
+}
+.image-here{
+  background-color: #003399;
+  color: whitesmoke;
+  padding: 2em 1em 2em 1em;
+  text-align: center;
+}
+.left{
+  margin: 0% 10% 0 10%;
+  width: 40%;
+}
+.left h2{
+  margin-top: 0;
+  text-align: center;
+}
+.right{
+  margin: 0% 5% 0% 0%;
+  width: 15%;
+}
+.right h3{
+  margin: 0 0 0 0;
+  text-align: center;
+}
+.right h5{
+  margin: 0 0 0 0;
+  text-align: center;
 }
