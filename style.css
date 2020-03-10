@@ -27,6 +27,9 @@ hr.top-bar{
   border: 10px solid lightskyblue;
   margin-bottom: 0;
 }
+.content{
+  margin-left: 10%;
+}
 .image-here{
   background-color: #003399;
   color: whitesmoke;
@@ -34,15 +37,18 @@ hr.top-bar{
   text-align: center;
 }
 .left{
-  margin: 0% 10% 0 10%;
+  margin: 0% 10% 0 15%;
   width: 40%;
 }
-.left h2{
+.left-header{
+  width: 110%;
+}
+.left h1{
   margin-top: 0;
   text-align: center;
 }
 .right{
-  margin: 0% 5% 0% 0%;
+  margin: 0% 0% 0% 0%;
   width: 15%;
 }
 .right h3{
