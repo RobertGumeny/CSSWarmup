@@ -5,7 +5,7 @@ footer{
   background-color: #003399;
   border: solid;
   border-color: black;
-  padding: 2% 0 2% 0;
+  padding: 8% 0 2% 0;
   color: whitesmoke;
 }
 header h1{
@@ -48,7 +48,7 @@ hr.top-bar{
   text-align: center;
 }
 .right{
-  margin: 0% 0% 0% 0%;
+  margin: 0% 0% 15% 10%;
   width: 15%;
 }
 .right h3{
