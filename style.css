@@ -1,0 +1,13 @@
+header{
+  background-color: #003399;
+  border-color: black;
+  color: whitesmoke;
+  padding: 2% 0 2% 0;
+  text-align: center;
+}
+footer{
+  background-color: #003399;
+  border-color: black;
+  padding: 1em 0 1em 0;
+  color: whitesmoke;
+}
